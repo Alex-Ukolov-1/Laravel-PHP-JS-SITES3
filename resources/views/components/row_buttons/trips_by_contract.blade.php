@@ -1,0 +1,1 @@
+<a href="{{ route('trips.index') . '#contract_id='.$item->id }}" title="Все рейсы этого заказа" class="btn btn-orange table-icon-btn"><i class="fas fa-car"></i></a>

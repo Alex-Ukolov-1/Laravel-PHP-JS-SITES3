@@ -1,0 +1,1 @@
+<a href="{{ route('contracts.index') . '#' . $item->type_name . '_id=' . $item->id }}" title="Все заказы этого контрагента" class="btn btn-orange table-icon-btn"><i class="fas fa-shopping-cart"></i></a>

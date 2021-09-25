@@ -1,0 +1,1 @@
+<textarea cols="30" rows="3" class="form-control" {{ $attributes->merge($xAttributes) }}>{{ $value }}</textarea>

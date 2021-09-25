@@ -1,0 +1,1 @@
+<input class="form-control" {{ $attributes->merge($xAttributes) }} />

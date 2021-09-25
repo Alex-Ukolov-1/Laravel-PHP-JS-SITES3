@@ -1,0 +1,1 @@
+<a href="{{ route('trips.index', ['counterparty_id' => $item->id]) }}" title="Все рейсы этого контрагента" class="btn btn-orange table-icon-btn"><i class="fas fa-car"></i></a>

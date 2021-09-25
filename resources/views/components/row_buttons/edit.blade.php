@@ -1,0 +1,1 @@
+<a href="{{ route($route . '.edit', $item->id)}}" class="btn btn-primary table-icon-btn"><i class="fas fa-pencil-alt"></i></a>
